@@ -2,5 +2,9 @@
   {
     "package": "crywolf",
     "url": "https://github.com/diogoprov/crywolf"
+  },
+  {
+    "package": "sheepdog",
+    "url": "https://github.com/diogoprov/sheepdog"
   }
 ]
