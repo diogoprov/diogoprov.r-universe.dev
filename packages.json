@@ -1,10 +1,12 @@
 [
   {
     "package": "crywolf",
-    "url": "https://github.com/diogoprov/crywolf"
+    "url": "https://github.com/diogoprov/crywolf",
+    "branch": "main"
   },
   {
     "package": "sheepdog",
-    "url": "https://github.com/diogoprov/sheepdog"
+    "url": "https://github.com/diogoprov/sheepdog",
+    "branch": "main"
   }
 ]
