@@ -8,5 +8,10 @@
     "package": "sheepdog",
     "url": "https://github.com/diogoprov/sheepdog",
     "branch": "main"
+  },
+  {
+    "package": "CoDaStereo",
+    "url": "https://github.com/diogoprov/CoDaStereo",
+    "branch": "main"
   }
 ]
